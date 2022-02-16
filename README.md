@@ -9,4 +9,7 @@ Goals:
   software decides when to run each piece of software
   
 Files:
-  
+  systems.h - the basic data structures used for the engine
+  game_handler.h - the definition of the functions for the main game handler, this 
+                   object specifically is the main system that decides what the user
+                   will see and handles background/display information.
