@@ -1,9 +1,6 @@
 /*
-	Project Tear Engine
-	
-	Developed by Demi
-	9/16/2021 - 12/16/2021
-
+	SDL2 GAME ENGINE
+	Developed by Kobe Runnels
 */
 
 // SDL2 libraries 
